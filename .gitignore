@@ -1,0 +1,11 @@
+# PostContemp output images - too big for git, and they are results, not sources
+saved/
+
+# Windows bits
+*.lnk
+desktop.ini
+Thumbs.db
+
+# Processing export / build folders, if any appear
+application.*/
+out/
